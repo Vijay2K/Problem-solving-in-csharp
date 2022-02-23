@@ -1,0 +1,15 @@
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ReveseNumber\bin\Debug\net5.0\ReveseNumber.exe
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ReveseNumber\bin\Debug\net5.0\ReveseNumber.deps.json
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ReveseNumber\bin\Debug\net5.0\ReveseNumber.runtimeconfig.json
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ReveseNumber\bin\Debug\net5.0\ReveseNumber.runtimeconfig.dev.json
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ReveseNumber\bin\Debug\net5.0\ReveseNumber.dll
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ReveseNumber\bin\Debug\net5.0\ref\ReveseNumber.dll
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ReveseNumber\bin\Debug\net5.0\ReveseNumber.pdb
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ReveseNumber\obj\Debug\net5.0\ReveseNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ReveseNumber\obj\Debug\net5.0\ReveseNumber.AssemblyInfoInputs.cache
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ReveseNumber\obj\Debug\net5.0\ReveseNumber.AssemblyInfo.cs
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ReveseNumber\obj\Debug\net5.0\ReveseNumber.csproj.CoreCompileInputs.cache
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ReveseNumber\obj\Debug\net5.0\ReveseNumber.dll
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ReveseNumber\obj\Debug\net5.0\ref\ReveseNumber.dll
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ReveseNumber\obj\Debug\net5.0\ReveseNumber.pdb
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ReveseNumber\obj\Debug\net5.0\ReveseNumber.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SumOfEvenNumbers\bin\Debug\net5.0\SumOfEvenNumbers.exe
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SumOfEvenNumbers\bin\Debug\net5.0\SumOfEvenNumbers.deps.json
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SumOfEvenNumbers\bin\Debug\net5.0\SumOfEvenNumbers.runtimeconfig.json
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SumOfEvenNumbers\bin\Debug\net5.0\SumOfEvenNumbers.runtimeconfig.dev.json
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SumOfEvenNumbers\bin\Debug\net5.0\SumOfEvenNumbers.dll
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SumOfEvenNumbers\bin\Debug\net5.0\ref\SumOfEvenNumbers.dll
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SumOfEvenNumbers\bin\Debug\net5.0\SumOfEvenNumbers.pdb
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SumOfEvenNumbers\obj\Debug\net5.0\SumOfEvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SumOfEvenNumbers\obj\Debug\net5.0\SumOfEvenNumbers.AssemblyInfoInputs.cache
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SumOfEvenNumbers\obj\Debug\net5.0\SumOfEvenNumbers.AssemblyInfo.cs
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SumOfEvenNumbers\obj\Debug\net5.0\SumOfEvenNumbers.csproj.CoreCompileInputs.cache
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SumOfEvenNumbers\obj\Debug\net5.0\SumOfEvenNumbers.dll
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SumOfEvenNumbers\obj\Debug\net5.0\ref\SumOfEvenNumbers.dll
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SumOfEvenNumbers\obj\Debug\net5.0\SumOfEvenNumbers.pdb
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SumOfEvenNumbers\obj\Debug\net5.0\SumOfEvenNumbers.genruntimeconfig.cache

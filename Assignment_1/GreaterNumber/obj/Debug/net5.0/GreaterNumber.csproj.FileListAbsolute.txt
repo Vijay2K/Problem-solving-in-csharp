@@ -1,0 +1,15 @@
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\GreaterNumber\bin\Debug\net5.0\GreaterNumber.exe
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\GreaterNumber\bin\Debug\net5.0\GreaterNumber.deps.json
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\GreaterNumber\bin\Debug\net5.0\GreaterNumber.runtimeconfig.json
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\GreaterNumber\bin\Debug\net5.0\GreaterNumber.runtimeconfig.dev.json
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\GreaterNumber\bin\Debug\net5.0\GreaterNumber.dll
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\GreaterNumber\bin\Debug\net5.0\ref\GreaterNumber.dll
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\GreaterNumber\bin\Debug\net5.0\GreaterNumber.pdb
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\GreaterNumber\obj\Debug\net5.0\GreaterNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\GreaterNumber\obj\Debug\net5.0\GreaterNumber.AssemblyInfoInputs.cache
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\GreaterNumber\obj\Debug\net5.0\GreaterNumber.AssemblyInfo.cs
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\GreaterNumber\obj\Debug\net5.0\GreaterNumber.csproj.CoreCompileInputs.cache
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\GreaterNumber\obj\Debug\net5.0\GreaterNumber.dll
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\GreaterNumber\obj\Debug\net5.0\ref\GreaterNumber.dll
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\GreaterNumber\obj\Debug\net5.0\GreaterNumber.pdb
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\GreaterNumber\obj\Debug\net5.0\GreaterNumber.genruntimeconfig.cache

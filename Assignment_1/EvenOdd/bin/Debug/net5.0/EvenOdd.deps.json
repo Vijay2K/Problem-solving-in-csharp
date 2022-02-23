@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "EvenOdd/1.0.0": {
+        "runtime": {
+          "EvenOdd.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EvenOdd/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

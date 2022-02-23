@@ -1,0 +1,16 @@
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SumOfNumbers\bin\Debug\net5.0\SumOfNumbers.exe
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SumOfNumbers\bin\Debug\net5.0\SumOfNumbers.deps.json
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SumOfNumbers\bin\Debug\net5.0\SumOfNumbers.runtimeconfig.json
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SumOfNumbers\bin\Debug\net5.0\SumOfNumbers.runtimeconfig.dev.json
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SumOfNumbers\bin\Debug\net5.0\SumOfNumbers.dll
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SumOfNumbers\bin\Debug\net5.0\ref\SumOfNumbers.dll
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SumOfNumbers\bin\Debug\net5.0\SumOfNumbers.pdb
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SumOfNumbers\obj\Debug\net5.0\SumOfNumbers.csproj.AssemblyReference.cache
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SumOfNumbers\obj\Debug\net5.0\SumOfNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SumOfNumbers\obj\Debug\net5.0\SumOfNumbers.AssemblyInfoInputs.cache
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SumOfNumbers\obj\Debug\net5.0\SumOfNumbers.AssemblyInfo.cs
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SumOfNumbers\obj\Debug\net5.0\SumOfNumbers.csproj.CoreCompileInputs.cache
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SumOfNumbers\obj\Debug\net5.0\SumOfNumbers.dll
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SumOfNumbers\obj\Debug\net5.0\ref\SumOfNumbers.dll
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SumOfNumbers\obj\Debug\net5.0\SumOfNumbers.pdb
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SumOfNumbers\obj\Debug\net5.0\SumOfNumbers.genruntimeconfig.cache

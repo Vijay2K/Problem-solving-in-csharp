@@ -1,0 +1,16 @@
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\VowelOrConsonant\bin\Debug\net5.0\VowelOrConsonant.exe
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\VowelOrConsonant\bin\Debug\net5.0\VowelOrConsonant.deps.json
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\VowelOrConsonant\bin\Debug\net5.0\VowelOrConsonant.runtimeconfig.json
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\VowelOrConsonant\bin\Debug\net5.0\VowelOrConsonant.runtimeconfig.dev.json
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\VowelOrConsonant\bin\Debug\net5.0\VowelOrConsonant.dll
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\VowelOrConsonant\bin\Debug\net5.0\ref\VowelOrConsonant.dll
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\VowelOrConsonant\bin\Debug\net5.0\VowelOrConsonant.pdb
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\VowelOrConsonant\obj\Debug\net5.0\VowelOrConsonant.csproj.AssemblyReference.cache
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\VowelOrConsonant\obj\Debug\net5.0\VowelOrConsonant.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\VowelOrConsonant\obj\Debug\net5.0\VowelOrConsonant.AssemblyInfoInputs.cache
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\VowelOrConsonant\obj\Debug\net5.0\VowelOrConsonant.AssemblyInfo.cs
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\VowelOrConsonant\obj\Debug\net5.0\VowelOrConsonant.csproj.CoreCompileInputs.cache
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\VowelOrConsonant\obj\Debug\net5.0\VowelOrConsonant.dll
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\VowelOrConsonant\obj\Debug\net5.0\ref\VowelOrConsonant.dll
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\VowelOrConsonant\obj\Debug\net5.0\VowelOrConsonant.pdb
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\VowelOrConsonant\obj\Debug\net5.0\VowelOrConsonant.genruntimeconfig.cache

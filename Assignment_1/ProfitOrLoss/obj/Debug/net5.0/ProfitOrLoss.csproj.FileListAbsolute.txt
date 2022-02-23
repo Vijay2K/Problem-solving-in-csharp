@@ -1,0 +1,15 @@
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ProfitOrLoss\bin\Debug\net5.0\ProfitOrLoss.exe
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ProfitOrLoss\bin\Debug\net5.0\ProfitOrLoss.deps.json
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ProfitOrLoss\bin\Debug\net5.0\ProfitOrLoss.runtimeconfig.json
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ProfitOrLoss\bin\Debug\net5.0\ProfitOrLoss.runtimeconfig.dev.json
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ProfitOrLoss\bin\Debug\net5.0\ProfitOrLoss.dll
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ProfitOrLoss\bin\Debug\net5.0\ref\ProfitOrLoss.dll
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ProfitOrLoss\bin\Debug\net5.0\ProfitOrLoss.pdb
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ProfitOrLoss\obj\Debug\net5.0\ProfitOrLoss.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ProfitOrLoss\obj\Debug\net5.0\ProfitOrLoss.AssemblyInfoInputs.cache
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ProfitOrLoss\obj\Debug\net5.0\ProfitOrLoss.AssemblyInfo.cs
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ProfitOrLoss\obj\Debug\net5.0\ProfitOrLoss.csproj.CoreCompileInputs.cache
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ProfitOrLoss\obj\Debug\net5.0\ProfitOrLoss.dll
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ProfitOrLoss\obj\Debug\net5.0\ref\ProfitOrLoss.dll
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ProfitOrLoss\obj\Debug\net5.0\ProfitOrLoss.pdb
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ProfitOrLoss\obj\Debug\net5.0\ProfitOrLoss.genruntimeconfig.cache

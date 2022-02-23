@@ -1,0 +1,15 @@
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SumOfDigits\bin\Debug\net5.0\SumOfDigits.exe
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SumOfDigits\bin\Debug\net5.0\SumOfDigits.deps.json
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SumOfDigits\bin\Debug\net5.0\SumOfDigits.runtimeconfig.json
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SumOfDigits\bin\Debug\net5.0\SumOfDigits.runtimeconfig.dev.json
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SumOfDigits\bin\Debug\net5.0\SumOfDigits.dll
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SumOfDigits\bin\Debug\net5.0\ref\SumOfDigits.dll
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SumOfDigits\bin\Debug\net5.0\SumOfDigits.pdb
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SumOfDigits\obj\Debug\net5.0\SumOfDigits.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SumOfDigits\obj\Debug\net5.0\SumOfDigits.AssemblyInfoInputs.cache
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SumOfDigits\obj\Debug\net5.0\SumOfDigits.AssemblyInfo.cs
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SumOfDigits\obj\Debug\net5.0\SumOfDigits.csproj.CoreCompileInputs.cache
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SumOfDigits\obj\Debug\net5.0\SumOfDigits.dll
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SumOfDigits\obj\Debug\net5.0\ref\SumOfDigits.dll
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SumOfDigits\obj\Debug\net5.0\SumOfDigits.pdb
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SumOfDigits\obj\Debug\net5.0\SumOfDigits.genruntimeconfig.cache

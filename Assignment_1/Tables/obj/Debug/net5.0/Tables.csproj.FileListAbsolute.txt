@@ -1,0 +1,15 @@
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\Tables\bin\Debug\net5.0\Tables.exe
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\Tables\bin\Debug\net5.0\Tables.deps.json
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\Tables\bin\Debug\net5.0\Tables.runtimeconfig.json
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\Tables\bin\Debug\net5.0\Tables.runtimeconfig.dev.json
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\Tables\bin\Debug\net5.0\Tables.dll
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\Tables\bin\Debug\net5.0\ref\Tables.dll
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\Tables\bin\Debug\net5.0\Tables.pdb
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\Tables\obj\Debug\net5.0\Tables.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\Tables\obj\Debug\net5.0\Tables.AssemblyInfoInputs.cache
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\Tables\obj\Debug\net5.0\Tables.AssemblyInfo.cs
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\Tables\obj\Debug\net5.0\Tables.csproj.CoreCompileInputs.cache
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\Tables\obj\Debug\net5.0\Tables.dll
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\Tables\obj\Debug\net5.0\ref\Tables.dll
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\Tables\obj\Debug\net5.0\Tables.pdb
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\Tables\obj\Debug\net5.0\Tables.genruntimeconfig.cache

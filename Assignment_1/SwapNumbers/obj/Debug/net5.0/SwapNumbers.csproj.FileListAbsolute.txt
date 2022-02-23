@@ -1,0 +1,16 @@
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SwapNumbers\bin\Debug\net5.0\SwapNumbers.exe
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SwapNumbers\bin\Debug\net5.0\SwapNumbers.deps.json
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SwapNumbers\bin\Debug\net5.0\SwapNumbers.runtimeconfig.json
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SwapNumbers\bin\Debug\net5.0\SwapNumbers.runtimeconfig.dev.json
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SwapNumbers\bin\Debug\net5.0\SwapNumbers.dll
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SwapNumbers\bin\Debug\net5.0\ref\SwapNumbers.dll
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SwapNumbers\bin\Debug\net5.0\SwapNumbers.pdb
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SwapNumbers\obj\Debug\net5.0\SwapNumbers.csproj.AssemblyReference.cache
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SwapNumbers\obj\Debug\net5.0\SwapNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SwapNumbers\obj\Debug\net5.0\SwapNumbers.AssemblyInfoInputs.cache
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SwapNumbers\obj\Debug\net5.0\SwapNumbers.AssemblyInfo.cs
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SwapNumbers\obj\Debug\net5.0\SwapNumbers.csproj.CoreCompileInputs.cache
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SwapNumbers\obj\Debug\net5.0\SwapNumbers.dll
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SwapNumbers\obj\Debug\net5.0\ref\SwapNumbers.dll
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SwapNumbers\obj\Debug\net5.0\SwapNumbers.pdb
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SwapNumbers\obj\Debug\net5.0\SwapNumbers.genruntimeconfig.cache

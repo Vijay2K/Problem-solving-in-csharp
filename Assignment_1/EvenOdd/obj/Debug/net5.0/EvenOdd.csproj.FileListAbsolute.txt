@@ -1,0 +1,16 @@
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\EvenOdd\bin\Debug\net5.0\EvenOdd.exe
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\EvenOdd\bin\Debug\net5.0\EvenOdd.deps.json
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\EvenOdd\bin\Debug\net5.0\EvenOdd.runtimeconfig.json
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\EvenOdd\bin\Debug\net5.0\EvenOdd.runtimeconfig.dev.json
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\EvenOdd\bin\Debug\net5.0\EvenOdd.dll
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\EvenOdd\bin\Debug\net5.0\ref\EvenOdd.dll
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\EvenOdd\bin\Debug\net5.0\EvenOdd.pdb
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\EvenOdd\obj\Debug\net5.0\EvenOdd.csproj.AssemblyReference.cache
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\EvenOdd\obj\Debug\net5.0\EvenOdd.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\EvenOdd\obj\Debug\net5.0\EvenOdd.AssemblyInfoInputs.cache
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\EvenOdd\obj\Debug\net5.0\EvenOdd.AssemblyInfo.cs
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\EvenOdd\obj\Debug\net5.0\EvenOdd.csproj.CoreCompileInputs.cache
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\EvenOdd\obj\Debug\net5.0\EvenOdd.dll
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\EvenOdd\obj\Debug\net5.0\ref\EvenOdd.dll
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\EvenOdd\obj\Debug\net5.0\EvenOdd.pdb
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\EvenOdd\obj\Debug\net5.0\EvenOdd.genruntimeconfig.cache

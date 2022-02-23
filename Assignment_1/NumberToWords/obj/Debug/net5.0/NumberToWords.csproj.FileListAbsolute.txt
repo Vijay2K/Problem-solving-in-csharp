@@ -1,0 +1,15 @@
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\NumberToWords\bin\Debug\net5.0\NumberToWords.exe
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\NumberToWords\bin\Debug\net5.0\NumberToWords.deps.json
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\NumberToWords\bin\Debug\net5.0\NumberToWords.runtimeconfig.json
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\NumberToWords\bin\Debug\net5.0\NumberToWords.runtimeconfig.dev.json
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\NumberToWords\bin\Debug\net5.0\NumberToWords.dll
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\NumberToWords\bin\Debug\net5.0\ref\NumberToWords.dll
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\NumberToWords\bin\Debug\net5.0\NumberToWords.pdb
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\NumberToWords\obj\Debug\net5.0\NumberToWords.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\NumberToWords\obj\Debug\net5.0\NumberToWords.AssemblyInfoInputs.cache
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\NumberToWords\obj\Debug\net5.0\NumberToWords.AssemblyInfo.cs
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\NumberToWords\obj\Debug\net5.0\NumberToWords.csproj.CoreCompileInputs.cache
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\NumberToWords\obj\Debug\net5.0\NumberToWords.dll
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\NumberToWords\obj\Debug\net5.0\ref\NumberToWords.dll
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\NumberToWords\obj\Debug\net5.0\NumberToWords.pdb
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\NumberToWords\obj\Debug\net5.0\NumberToWords.genruntimeconfig.cache

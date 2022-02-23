@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0a92724a-28ea-473c-8985-4d6355a67905": {
+      "ProjectGuid": "0a92724a-28ea-473c-8985-4d6355a67905",
+      "DisplayName": "SwapNumbers",
+      "ColorIndex": 0
+    },
+    "8f5180de-113a-48ed-965d-87c6153915b0": {
+      "ProjectGuid": "8f5180de-113a-48ed-965d-87c6153915b0",
+      "DisplayName": "EvenOdd",
+      "ColorIndex": 1
+    },
+    "f6481cfb-8e1e-4a51-8505-944a4e2fec4c": {
+      "ProjectGuid": "f6481cfb-8e1e-4a51-8505-944a4e2fec4c",
+      "DisplayName": "VowelOrConsonant",
+      "ColorIndex": 2
+    },
+    "759decf2-e121-49ab-9dc7-aa3cd1308816": {
+      "ProjectGuid": "759decf2-e121-49ab-9dc7-aa3cd1308816",
+      "DisplayName": "SumOfNumbers",
+      "ColorIndex": 3
+    },
+    "a277dacd-5bf1-4868-9c99-204117c8b949": {
+      "ProjectGuid": "a277dacd-5bf1-4868-9c99-204117c8b949",
+      "DisplayName": "Tables",
+      "ColorIndex": 4
+    },
+    "80c03c1a-e5f1-4a8e-96e2-236c699585ad": {
+      "ProjectGuid": "80c03c1a-e5f1-4a8e-96e2-236c699585ad",
+      "DisplayName": "SumOfEvenNumbers",
+      "ColorIndex": 5
+    },
+    "0ee1a54e-9ff7-4aed-af68-f04355902166": {
+      "ProjectGuid": "0ee1a54e-9ff7-4aed-af68-f04355902166",
+      "DisplayName": "Fibonacci",
+      "ColorIndex": 6
+    },
+    "202cfb86-5748-4755-8ba7-5ccce5169e72": {
+      "ProjectGuid": "202cfb86-5748-4755-8ba7-5ccce5169e72",
+      "DisplayName": "ReveseNumber",
+      "ColorIndex": 7
+    },
+    "12a4c2cc-8ce9-4de9-8ac0-236b83efc957": {
+      "ProjectGuid": "12a4c2cc-8ce9-4de9-8ac0-236b83efc957",
+      "DisplayName": "NumberToWords",
+      "ColorIndex": 8
+    },
+    "1b64ac11-a884-4000-848f-525c31d4d363": {
+      "ProjectGuid": "1b64ac11-a884-4000-848f-525c31d4d363",
+      "DisplayName": "SumOfDigits",
+      "ColorIndex": 9
+    },
+    "5595baad-606b-42d1-9b10-c48469bb6af1": {
+      "ProjectGuid": "5595baad-606b-42d1-9b10-c48469bb6af1",
+      "DisplayName": "GreaterNumber",
+      "ColorIndex": 10
+    },
+    "625cfe57-da74-4070-b3d9-d8dfa36f0a24": {
+      "ProjectGuid": "625cfe57-da74-4070-b3d9-d8dfa36f0a24",
+      "DisplayName": "ProfitOrLoss",
+      "ColorIndex": 11
+    }
+  },
+  "NextColorIndex": 12
+}
