@@ -1,0 +1,15 @@
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ArmstrongNumber\bin\Debug\net5.0\ArmstrongNumber.exe
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ArmstrongNumber\bin\Debug\net5.0\ArmstrongNumber.deps.json
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ArmstrongNumber\bin\Debug\net5.0\ArmstrongNumber.runtimeconfig.json
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ArmstrongNumber\bin\Debug\net5.0\ArmstrongNumber.runtimeconfig.dev.json
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ArmstrongNumber\bin\Debug\net5.0\ArmstrongNumber.dll
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ArmstrongNumber\bin\Debug\net5.0\ref\ArmstrongNumber.dll
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ArmstrongNumber\bin\Debug\net5.0\ArmstrongNumber.pdb
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ArmstrongNumber\obj\Debug\net5.0\ArmstrongNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ArmstrongNumber\obj\Debug\net5.0\ArmstrongNumber.AssemblyInfoInputs.cache
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ArmstrongNumber\obj\Debug\net5.0\ArmstrongNumber.AssemblyInfo.cs
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ArmstrongNumber\obj\Debug\net5.0\ArmstrongNumber.csproj.CoreCompileInputs.cache
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ArmstrongNumber\obj\Debug\net5.0\ArmstrongNumber.dll
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ArmstrongNumber\obj\Debug\net5.0\ref\ArmstrongNumber.dll
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ArmstrongNumber\obj\Debug\net5.0\ArmstrongNumber.pdb
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ArmstrongNumber\obj\Debug\net5.0\ArmstrongNumber.genruntimeconfig.cache

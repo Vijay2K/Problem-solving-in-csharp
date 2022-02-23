@@ -13,3 +13,4 @@ D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SumOfEvenNumbers\o
 D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SumOfEvenNumbers\obj\Debug\net5.0\ref\SumOfEvenNumbers.dll
 D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SumOfEvenNumbers\obj\Debug\net5.0\SumOfEvenNumbers.pdb
 D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SumOfEvenNumbers\obj\Debug\net5.0\SumOfEvenNumbers.genruntimeconfig.cache
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SumOfEvenNumbers\obj\Debug\net5.0\SumOfEvenNumbers.csproj.AssemblyReference.cache

@@ -1,0 +1,15 @@
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ConvertHour\bin\Debug\net5.0\ConvertHour.exe
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ConvertHour\bin\Debug\net5.0\ConvertHour.deps.json
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ConvertHour\bin\Debug\net5.0\ConvertHour.runtimeconfig.json
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ConvertHour\bin\Debug\net5.0\ConvertHour.runtimeconfig.dev.json
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ConvertHour\bin\Debug\net5.0\ConvertHour.dll
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ConvertHour\bin\Debug\net5.0\ref\ConvertHour.dll
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ConvertHour\bin\Debug\net5.0\ConvertHour.pdb
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ConvertHour\obj\Debug\net5.0\ConvertHour.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ConvertHour\obj\Debug\net5.0\ConvertHour.AssemblyInfoInputs.cache
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ConvertHour\obj\Debug\net5.0\ConvertHour.AssemblyInfo.cs
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ConvertHour\obj\Debug\net5.0\ConvertHour.csproj.CoreCompileInputs.cache
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ConvertHour\obj\Debug\net5.0\ConvertHour.dll
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ConvertHour\obj\Debug\net5.0\ref\ConvertHour.dll
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ConvertHour\obj\Debug\net5.0\ConvertHour.pdb
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ConvertHour\obj\Debug\net5.0\ConvertHour.genruntimeconfig.cache

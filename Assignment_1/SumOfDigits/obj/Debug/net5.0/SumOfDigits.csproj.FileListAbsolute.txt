@@ -13,3 +13,4 @@ D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SumOfDigits\obj\De
 D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SumOfDigits\obj\Debug\net5.0\ref\SumOfDigits.dll
 D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SumOfDigits\obj\Debug\net5.0\SumOfDigits.pdb
 D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SumOfDigits\obj\Debug\net5.0\SumOfDigits.genruntimeconfig.cache
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SumOfDigits\obj\Debug\net5.0\SumOfDigits.csproj.AssemblyReference.cache

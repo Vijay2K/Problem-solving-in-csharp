@@ -60,7 +60,52 @@
       "ProjectGuid": "625cfe57-da74-4070-b3d9-d8dfa36f0a24",
       "DisplayName": "ProfitOrLoss",
       "ColorIndex": 11
+    },
+    "24b28a29-eaf0-48c6-8f92-c4a05e208a64": {
+      "ProjectGuid": "24b28a29-eaf0-48c6-8f92-c4a05e208a64",
+      "DisplayName": "StudentGrade",
+      "ColorIndex": 12
+    },
+    "9b404956-e6e0-4517-892c-f2632f410225": {
+      "ProjectGuid": "9b404956-e6e0-4517-892c-f2632f410225",
+      "DisplayName": "ArmstrongNumber",
+      "ColorIndex": 13
+    },
+    "c3d5234c-456f-48f1-8287-0d1e810a2a5e": {
+      "ProjectGuid": "c3d5234c-456f-48f1-8287-0d1e810a2a5e",
+      "DisplayName": "ArmstrongNumberIntervals",
+      "ColorIndex": 14
+    },
+    "fb06bd70-62e0-4c33-a839-3f0c117b8615": {
+      "ProjectGuid": "fb06bd70-62e0-4c33-a839-3f0c117b8615",
+      "DisplayName": "PrimeNumbers",
+      "ColorIndex": 15
+    },
+    "9387ecee-2935-4e48-aa97-a5d7dcf4896c": {
+      "ProjectGuid": "9387ecee-2935-4e48-aa97-a5d7dcf4896c",
+      "DisplayName": "Factors",
+      "ColorIndex": 0
+    },
+    "5db898cc-9757-49a8-a64d-971eb3b202c7": {
+      "ProjectGuid": "5db898cc-9757-49a8-a64d-971eb3b202c7",
+      "DisplayName": "SuitableTitle",
+      "ColorIndex": 1
+    },
+    "be6f082f-b94e-452b-9c16-0634cc35e2db": {
+      "ProjectGuid": "be6f082f-b94e-452b-9c16-0634cc35e2db",
+      "DisplayName": "ElectricityBill",
+      "ColorIndex": 2
+    },
+    "8e682cf3-1312-439c-8bb4-1a6cdf315411": {
+      "ProjectGuid": "8e682cf3-1312-439c-8bb4-1a6cdf315411",
+      "DisplayName": "ConvertHour",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
     }
   },
-  "NextColorIndex": 12
+  "NextColorIndex": 4
 }

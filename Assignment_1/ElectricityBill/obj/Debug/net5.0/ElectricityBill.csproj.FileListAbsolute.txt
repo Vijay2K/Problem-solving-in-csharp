@@ -1,0 +1,15 @@
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ElectricityBill\bin\Debug\net5.0\ElectricityBill.exe
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ElectricityBill\bin\Debug\net5.0\ElectricityBill.deps.json
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ElectricityBill\bin\Debug\net5.0\ElectricityBill.runtimeconfig.json
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ElectricityBill\bin\Debug\net5.0\ElectricityBill.runtimeconfig.dev.json
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ElectricityBill\bin\Debug\net5.0\ElectricityBill.dll
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ElectricityBill\bin\Debug\net5.0\ref\ElectricityBill.dll
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ElectricityBill\bin\Debug\net5.0\ElectricityBill.pdb
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ElectricityBill\obj\Debug\net5.0\ElectricityBill.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ElectricityBill\obj\Debug\net5.0\ElectricityBill.AssemblyInfoInputs.cache
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ElectricityBill\obj\Debug\net5.0\ElectricityBill.AssemblyInfo.cs
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ElectricityBill\obj\Debug\net5.0\ElectricityBill.csproj.CoreCompileInputs.cache
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ElectricityBill\obj\Debug\net5.0\ElectricityBill.dll
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ElectricityBill\obj\Debug\net5.0\ref\ElectricityBill.dll
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ElectricityBill\obj\Debug\net5.0\ElectricityBill.pdb
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ElectricityBill\obj\Debug\net5.0\ElectricityBill.genruntimeconfig.cache

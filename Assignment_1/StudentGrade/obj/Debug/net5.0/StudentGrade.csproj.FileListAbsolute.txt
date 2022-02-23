@@ -1,0 +1,16 @@
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\StudentGrade\bin\Debug\net5.0\StudentGrade.exe
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\StudentGrade\bin\Debug\net5.0\StudentGrade.deps.json
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\StudentGrade\bin\Debug\net5.0\StudentGrade.runtimeconfig.json
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\StudentGrade\bin\Debug\net5.0\StudentGrade.runtimeconfig.dev.json
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\StudentGrade\bin\Debug\net5.0\StudentGrade.dll
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\StudentGrade\bin\Debug\net5.0\ref\StudentGrade.dll
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\StudentGrade\bin\Debug\net5.0\StudentGrade.pdb
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\StudentGrade\obj\Debug\net5.0\StudentGrade.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\StudentGrade\obj\Debug\net5.0\StudentGrade.AssemblyInfoInputs.cache
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\StudentGrade\obj\Debug\net5.0\StudentGrade.AssemblyInfo.cs
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\StudentGrade\obj\Debug\net5.0\StudentGrade.csproj.CoreCompileInputs.cache
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\StudentGrade\obj\Debug\net5.0\StudentGrade.dll
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\StudentGrade\obj\Debug\net5.0\ref\StudentGrade.dll
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\StudentGrade\obj\Debug\net5.0\StudentGrade.pdb
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\StudentGrade\obj\Debug\net5.0\StudentGrade.genruntimeconfig.cache
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\StudentGrade\obj\Debug\net5.0\StudentGrade.csproj.AssemblyReference.cache

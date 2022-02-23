@@ -1,0 +1,15 @@
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\PrimeNumbers\bin\Debug\net5.0\PrimeNumbers.exe
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\PrimeNumbers\bin\Debug\net5.0\PrimeNumbers.deps.json
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\PrimeNumbers\bin\Debug\net5.0\PrimeNumbers.runtimeconfig.json
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\PrimeNumbers\bin\Debug\net5.0\PrimeNumbers.runtimeconfig.dev.json
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\PrimeNumbers\bin\Debug\net5.0\PrimeNumbers.dll
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\PrimeNumbers\bin\Debug\net5.0\ref\PrimeNumbers.dll
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\PrimeNumbers\bin\Debug\net5.0\PrimeNumbers.pdb
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\PrimeNumbers\obj\Debug\net5.0\PrimeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\PrimeNumbers\obj\Debug\net5.0\PrimeNumbers.AssemblyInfoInputs.cache
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\PrimeNumbers\obj\Debug\net5.0\PrimeNumbers.AssemblyInfo.cs
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\PrimeNumbers\obj\Debug\net5.0\PrimeNumbers.csproj.CoreCompileInputs.cache
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\PrimeNumbers\obj\Debug\net5.0\PrimeNumbers.dll
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\PrimeNumbers\obj\Debug\net5.0\ref\PrimeNumbers.dll
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\PrimeNumbers\obj\Debug\net5.0\PrimeNumbers.pdb
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\PrimeNumbers\obj\Debug\net5.0\PrimeNumbers.genruntimeconfig.cache

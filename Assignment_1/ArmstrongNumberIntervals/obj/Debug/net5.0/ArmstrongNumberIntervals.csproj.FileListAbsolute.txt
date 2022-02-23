@@ -1,0 +1,16 @@
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ArmstrongNumberIntervals\bin\Debug\net5.0\ArmstrongNumberIntervals.exe
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ArmstrongNumberIntervals\bin\Debug\net5.0\ArmstrongNumberIntervals.deps.json
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ArmstrongNumberIntervals\bin\Debug\net5.0\ArmstrongNumberIntervals.runtimeconfig.json
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ArmstrongNumberIntervals\bin\Debug\net5.0\ArmstrongNumberIntervals.runtimeconfig.dev.json
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ArmstrongNumberIntervals\bin\Debug\net5.0\ArmstrongNumberIntervals.dll
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ArmstrongNumberIntervals\bin\Debug\net5.0\ref\ArmstrongNumberIntervals.dll
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ArmstrongNumberIntervals\bin\Debug\net5.0\ArmstrongNumberIntervals.pdb
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ArmstrongNumberIntervals\obj\Debug\net5.0\ArmstrongNumberIntervals.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ArmstrongNumberIntervals\obj\Debug\net5.0\ArmstrongNumberIntervals.AssemblyInfoInputs.cache
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ArmstrongNumberIntervals\obj\Debug\net5.0\ArmstrongNumberIntervals.AssemblyInfo.cs
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ArmstrongNumberIntervals\obj\Debug\net5.0\ArmstrongNumberIntervals.csproj.CoreCompileInputs.cache
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ArmstrongNumberIntervals\obj\Debug\net5.0\ArmstrongNumberIntervals.dll
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ArmstrongNumberIntervals\obj\Debug\net5.0\ref\ArmstrongNumberIntervals.dll
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ArmstrongNumberIntervals\obj\Debug\net5.0\ArmstrongNumberIntervals.pdb
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ArmstrongNumberIntervals\obj\Debug\net5.0\ArmstrongNumberIntervals.genruntimeconfig.cache
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\ArmstrongNumberIntervals\obj\Debug\net5.0\ArmstrongNumberIntervals.csproj.AssemblyReference.cache

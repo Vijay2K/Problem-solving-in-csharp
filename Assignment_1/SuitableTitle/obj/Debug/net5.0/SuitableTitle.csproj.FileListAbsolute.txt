@@ -1,0 +1,16 @@
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SuitableTitle\bin\Debug\net5.0\SuitableTitle.exe
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SuitableTitle\bin\Debug\net5.0\SuitableTitle.deps.json
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SuitableTitle\bin\Debug\net5.0\SuitableTitle.runtimeconfig.json
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SuitableTitle\bin\Debug\net5.0\SuitableTitle.runtimeconfig.dev.json
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SuitableTitle\bin\Debug\net5.0\SuitableTitle.dll
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SuitableTitle\bin\Debug\net5.0\ref\SuitableTitle.dll
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SuitableTitle\bin\Debug\net5.0\SuitableTitle.pdb
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SuitableTitle\obj\Debug\net5.0\SuitableTitle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SuitableTitle\obj\Debug\net5.0\SuitableTitle.AssemblyInfoInputs.cache
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SuitableTitle\obj\Debug\net5.0\SuitableTitle.AssemblyInfo.cs
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SuitableTitle\obj\Debug\net5.0\SuitableTitle.csproj.CoreCompileInputs.cache
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SuitableTitle\obj\Debug\net5.0\SuitableTitle.dll
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SuitableTitle\obj\Debug\net5.0\ref\SuitableTitle.dll
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SuitableTitle\obj\Debug\net5.0\SuitableTitle.pdb
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SuitableTitle\obj\Debug\net5.0\SuitableTitle.genruntimeconfig.cache
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\SuitableTitle\obj\Debug\net5.0\SuitableTitle.csproj.AssemblyReference.cache

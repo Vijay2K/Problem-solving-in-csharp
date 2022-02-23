@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ConvertHour/1.0.0": {
+        "runtime": {
+          "ConvertHour.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConvertHour/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

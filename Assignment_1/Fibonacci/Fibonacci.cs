@@ -11,14 +11,9 @@ namespace Fibonacci
             n = int.Parse(Console.ReadLine());
             Console.WriteLine("Fibonacci Series up to {0} numbers", n);
             Console.Write("{0}  {1}  ", a, b);
-            for(int i = 0; i < n; i++)
+            for(int i = 0; i < n - 2; i++)
             {
                 c = a + b;
-
-                if(c > n)
-                {
-                    break;
-                }
 
                 a = b;
                 b = c;

@@ -13,3 +13,4 @@ D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\NumberToWords\obj\
 D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\NumberToWords\obj\Debug\net5.0\ref\NumberToWords.dll
 D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\NumberToWords\obj\Debug\net5.0\NumberToWords.pdb
 D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\NumberToWords\obj\Debug\net5.0\NumberToWords.genruntimeconfig.cache
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\NumberToWords\obj\Debug\net5.0\NumberToWords.csproj.AssemblyReference.cache

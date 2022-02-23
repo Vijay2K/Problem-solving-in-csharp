@@ -1,0 +1,15 @@
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\Factors\bin\Debug\net5.0\Factors.exe
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\Factors\bin\Debug\net5.0\Factors.deps.json
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\Factors\bin\Debug\net5.0\Factors.runtimeconfig.json
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\Factors\bin\Debug\net5.0\Factors.runtimeconfig.dev.json
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\Factors\bin\Debug\net5.0\Factors.dll
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\Factors\bin\Debug\net5.0\ref\Factors.dll
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\Factors\bin\Debug\net5.0\Factors.pdb
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\Factors\obj\Debug\net5.0\Factors.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\Factors\obj\Debug\net5.0\Factors.AssemblyInfoInputs.cache
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\Factors\obj\Debug\net5.0\Factors.AssemblyInfo.cs
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\Factors\obj\Debug\net5.0\Factors.csproj.CoreCompileInputs.cache
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\Factors\obj\Debug\net5.0\Factors.dll
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\Factors\obj\Debug\net5.0\ref\Factors.dll
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\Factors\obj\Debug\net5.0\Factors.pdb
+D:\Personal Projects\CSharp Projects\Assignments\Assignment_1\Factors\obj\Debug\net5.0\Factors.genruntimeconfig.cache
