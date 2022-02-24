@@ -17,11 +17,16 @@ namespace Assignment_2
         CHOICE:
             Console.WriteLine("1. Question from 21 to 30");
             Console.WriteLine("2. Question from 31 to 40");
+            Console.WriteLine("\nPress 0 to exit\n");
+
             Console.Write("Enter the Choice : ");
             choice = byte.Parse(Console.ReadLine());
 
             switch (choice)
             {
+                case 0:
+                    Environment.Exit(0);
+                    break;
                 case 1:
                     Console.Clear();
                     QuestionsPartOne();
@@ -49,10 +54,10 @@ namespace Assignment_2
             Console.WriteLine("5. Write a C# program to print all perfect numbers within given range.");
             Console.WriteLine("6. Write down a menu driven program using switch to convert various distance from one unit to other.");
             Console.WriteLine("7. Write a program in C# to read n number of values in an array and display it in reverse order.");
-            Console.WriteLine("8. Write a program in C# to read n number of values in an array and display it in reverse order.");
+            Console.WriteLine("8. Write a program in C# to find the sum and average of all elements of the array.");
             Console.WriteLine("9. Write a program in C# to find maximum and minimum element in an array.");
             Console.WriteLine("10. Write a program in C# to sort the given array in descending order.");
-            Console.WriteLine("\nPress 0 Go Back");
+            Console.WriteLine("\nPress 0 to Go Back");
 
             Console.Write("\nEnter your choice : ");
             choice = byte.Parse(Console.ReadLine());
@@ -91,10 +96,12 @@ namespace Assignment_2
                     Q28_ArraySumAverage.ArraySumAverage();
                     break;
                 case 9:
-                    Console.WriteLine("Entering inputs");
+                    Console.Clear();
+                    Q29_MinMaxElements.MinMaxElements();
                     break;
                 case 10:
-                    Console.WriteLine("Entering inputs");
+                    Console.Clear();
+                    Q30_DecendingSort.SortingInDecending();
                     break;
                 default:
                     Console.WriteLine("Invalid Input...");
