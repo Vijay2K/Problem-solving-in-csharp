@@ -32,7 +32,8 @@ namespace Assignment_2
                     QuestionsPartOne();
                     break;
                 case 2:
-                    Console.WriteLine("Your choice is two...");
+                    Console.Clear();
+                    QuestionPartTwo();
                     break;
                 default:
                     Console.WriteLine("Invalid Choice...");
@@ -102,6 +103,74 @@ namespace Assignment_2
                 case 10:
                     Console.Clear();
                     Q30_DecendingSort.SortingInDecending();
+                    break;
+                default:
+                    Console.WriteLine("Invalid Input...");
+                    Thread.Sleep(500);
+                    Console.Clear();
+                    goto Questions;
+            }
+        }
+
+        public static void QuestionPartTwo()
+        {
+            byte choice;
+
+        Questions:
+            Console.WriteLine("1. Write a program in C# to search given element in array.");
+            Console.WriteLine("2. Input one matrix and print its transpose.");
+            Console.WriteLine("3. Input a square matrix and find the sum of diagonal elements.");
+            Console.WriteLine("4. Write a C# program to store the information of one student using structure.");
+            Console.WriteLine("5. Write a C# program to store the information of 5 employees using structure and array.");
+            Console.WriteLine("6. Demonstrate the use of all access specifiers with suitable example.");
+            Console.WriteLine("7. Input 3 numbers from command line argument and find greater between them using ternary operator.");
+            Console.WriteLine("8. Input 5 subjects marks from command line argument. Calculate percentage of student and assign appropriate grade.");
+            Console.WriteLine("9. Input a number from command line argument and check whether it is palindrome or not.");
+            Console.WriteLine("10. Input a number from command line argument and check it is Armstrong or not.");
+            Console.WriteLine("\nPress 0 to Go Back");
+
+            Console.Write("\nEnter your choice : ");
+            choice = byte.Parse(Console.ReadLine());
+
+            switch (choice)
+            {
+                case 0:
+                    Console.Clear();
+                    Choices();
+                    break;
+                case 1:
+                    Console.Clear();
+                    Q31_SearchElement.SearchElements();                    
+                    break;
+                case 2:
+                    Console.Clear();
+                    Q32_TransposeMatrix.TransposeMatrix();
+                    break;
+                case 3:
+                    Console.Clear();
+                    Q33_SumOfDiagonalMatrix.SumOfDiagonalMatrix();
+                    break;
+                case 4:
+                    Console.Clear();
+                    Q34_StudentInfo.StudentDetails();
+                    break;
+                case 5:
+                    Console.WriteLine("Entering inputs");
+                    break;
+                case 6:
+                    Console.WriteLine("Entering inputs");
+                    break;
+                case 7:
+                    Console.WriteLine("Entering inputs");
+                    break;
+                case 8:
+                    Console.WriteLine("Entering inputs");
+                    break;
+                case 9:
+                    Console.WriteLine("Entering inputs");
+                    break;
+                case 10:
+                    Console.WriteLine("Entering inputs");
                     break;
                 default:
                     Console.WriteLine("Invalid Input...");

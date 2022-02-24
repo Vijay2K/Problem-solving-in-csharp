@@ -1,0 +1,50 @@
+								Assignment - 1
+
+1.	Write a program to swap given two numbers. ✔️
+2.	Write a program to check given number is even or odd. ✔️
+3.	Write a program to check given character is vowel or consonant.✔️
+4.	Write a program to find sum of 1 to n numbers using goto statement. ✔️
+5.	Write a program to find table of given number. ✔️
+6.	Write a program to find all factors of given number. ✔️
+7.	Write a program to assign suitable title (Miss, Mrs, Mr) to person. Take input one’s gender and material status if required.✔️
+8.	Write a program to convert 24-hour time format to 12-hour time format with am or pm appropriate. ✔️
+9.	Write a program to input electricity unit charge and calculate the total electricity bill according to the given condition:
+	For first 50 units Rs. 0.50/unit
+	For next 100 units Rs. 0.75/unit
+	For next 100 units Rs. 1.20/unit
+	For unit above 250 Rs. 1.50/unit
+	An additional surcharge of 20% is added to the bill. ✔️
+10.	Write a program to calculate sum of all even numbers up to given number.✔️
+11.	Write a program to enter student marks and calculate percentage and grade.✔️
+12.	Write a program to calculate profit or loss.✔️
+13.	Write a program to reverse the given number. ✔️
+14.	Write a program to find given number is Armstrong or not.✔️
+15.	Write a program to print Fibonacci series up to n number of terms. ✔️
+16.	Write a program to print all prime numbers between given two intervals. ✔️
+17.	Write a program to print all Armstrong numbers between given two intervals. ✔️
+18.	Write a program to find greater between given three numbers. ✔️
+19.	Write a program to find sum of all digits in given number. ✔️
+20.	Write a c# program to convert given number in word. (357546  :  three five seven five four six ) ✔️
+___________________________________________________________________________________________________________
+							Assignment - 2
+							
+21.	Write a c# program to convert given number in word form. (147 : one hundred forty seven)
+22.	Find the greater between given 3 numbers using ternary operator.✔️
+23.	Write a C# program to convert decimal number to binary.
+24.	Write a C# program to check whether given number is perfect or not.(6, 28, 496, 8128 )
+25.	Write a C# program to print all perfect numbers within given range. 
+26.	Write down a menu driven program using switch to convert various distance from one unit to other.
+27.	Write a program in C# to read n number of values in an array and display it in reverse order.✔️
+28.	Write a program in C# to find the sum and average of all elements of the array.✔️
+29.	Write a program in C# to find maximum and minimum element in an array.✔️
+30.	Write a program in C# to sort the given array in descending order.✔️
+31.	Write a program in C# to search given element in array. ✔️
+32.	Input one matrix and print its transpose.✔️
+33.	Input a square matrix and find the sum of diagonal elements.✔️
+34.	Write a C# program to store the information of one student using structure.✔️
+35.	Write a C# program to store the information of 5 employees using structure and array. 
+36.	Demonstrate the use of all access specifiers with suitable example. 
+37.	Input 3 numbers from command line argument and find greater between them using ternary operator.
+38.	Input 5 subjects marks from command line argument. Calculate percentage of student and assign appropriate grade.
+39.	Input a number from command line argument and check whether it is palindrome or not.
+40.	Input a number from command line argument and check it is Armstrong or not.
