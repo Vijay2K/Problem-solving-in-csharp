@@ -42,7 +42,7 @@ ________________________________________________________________________________
 32.	Input one matrix and print its transpose.✔️
 33.	Input a square matrix and find the sum of diagonal elements.✔️
 34.	Write a C# program to store the information of one student using structure.✔️
-35.	Write a C# program to store the information of 5 employees using structure and array. 
+35.	Write a C# program to store the information of 5 employees using structure and array. ✔️
 36.	Demonstrate the use of all access specifiers with suitable example. 
 37.	Input 3 numbers from command line argument and find greater between them using ternary operator.
 38.	Input 5 subjects marks from command line argument. Calculate percentage of student and assign appropriate grade.

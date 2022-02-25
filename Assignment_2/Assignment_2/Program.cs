@@ -86,7 +86,8 @@ namespace Assignment_2
                     Console.WriteLine("Entering inputs");
                     break;
                 case 6:
-                    Console.WriteLine("Entering inputs");
+                    Console.Clear();
+                    Q26_DistanceConversion.DistanceConversion();
                     break;
                 case 7:
                     Console.Clear();
@@ -155,7 +156,8 @@ namespace Assignment_2
                     Q34_StudentInfo.StudentDetails();
                     break;
                 case 5:
-                    Console.WriteLine("Entering inputs");
+                    Console.Clear();
+                    Q35_EmployeeInfo.EmployeeInfo();
                     break;
                 case 6:
                     Console.WriteLine("Entering inputs");
