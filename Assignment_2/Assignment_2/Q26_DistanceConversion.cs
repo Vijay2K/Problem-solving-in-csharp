@@ -56,7 +56,7 @@ namespace Assignment_2
                 case 'n':
                 case 'N':
                     Console.Clear();
-                    Program.QuestionPartTwo();
+                    Program.QuestionsPartOne();
                     break;
                 default:
                     Console.Write("Invalid Input...");

@@ -171,14 +171,16 @@ namespace Assignment_2
                     Q35_EmployeeInfo.EmployeeInfo();
                     break;
                 case 6:
-                    Console.WriteLine("Entering inputs");
+                    Console.Clear();
+                    Q36_AccessSpecifiers.AccessSpecifiers();
                     break;
                 case 7:
                     Console.Clear();
                     Q37_GreaterNumberUsingCL.CL_GreaterNumber(strs);
                     break;
                 case 8:
-                    Console.WriteLine("Entering inputs");
+                    Console.Clear();
+                    Q38_StudentGradeUsingCL.StudentGradeCL(strs);
                     break;
                 case 9:
                     Console.Clear();
