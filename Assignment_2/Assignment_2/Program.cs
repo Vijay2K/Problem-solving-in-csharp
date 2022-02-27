@@ -5,8 +5,15 @@ namespace Assignment_2
 {
     internal class Program
     {
+        static string[] strs;
         static void Main(string[] args)
         {
+            strs = new string[args.Length];
+            for(int i = 0; i < args.Length; i++)
+            {
+                strs[i] = args[i];
+            }
+
             Choices();
         }
 
@@ -167,16 +174,19 @@ namespace Assignment_2
                     Console.WriteLine("Entering inputs");
                     break;
                 case 7:
-                    Console.WriteLine("Entering inputs");
+                    Console.Clear();
+                    Q37_GreaterNumberUsingCL.CL_GreaterNumber(strs);
                     break;
                 case 8:
                     Console.WriteLine("Entering inputs");
                     break;
                 case 9:
-                    Console.WriteLine("Entering inputs");
+                    Console.Clear();
+                    Q39_PalindromeUsingCL.PalindromeUsingCL(strs);
                     break;
                 case 10:
-                    Console.WriteLine("Entering inputs");
+                    Console.Clear();
+                    Q40_ArmstrongUsingCL.ArmstrongNumberCL(strs);
                     break;
                 default:
                     Console.WriteLine("Invalid Input...");
