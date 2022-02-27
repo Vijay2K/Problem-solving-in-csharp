@@ -10,6 +10,7 @@ namespace Assignment_2
         {
         Greater:
             int a, b, c, result;
+            Console.ForegroundColor = ConsoleColor.White;
             Console.WriteLine("\nQ22. Find the greater between given 3 numbers using ternary operator.");
             Console.Write("\nEnter the num1 : ");
             a = int.Parse(Console.ReadLine());
@@ -19,11 +20,14 @@ namespace Assignment_2
             c = int.Parse(Console.ReadLine());
 
             result = (a > b && a > c) ? a : (b > a && b > c) ? b : c;
-            Console.WriteLine("Greater number amoung {0}, {1} and {2} : {3}", a, b, c, result);
+            Console.Write("\nGreater number amoung {0}, {1} and {2} : ", a, b, c);
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            Console.Write(result);
 
-            Choices:
+        Choices:
             char ch;
-            Console.Write("Do you want to retry (y / n): ");
+            Console.ForegroundColor = ConsoleColor.White;
+            Console.Write("\nDo you want to retry (y / n): ");
             ch = char.Parse(Console.ReadLine());
 
             switch(ch)

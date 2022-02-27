@@ -14,6 +14,7 @@ namespace Assignment_2
             int min = int.MaxValue;
             int max = int.MinValue;
 
+            Console.ForegroundColor = ConsoleColor.White;
             Console.WriteLine("\nQ29. Write a program in C# to find maximum and minimum element in an array.");
             Console.Write("\nEnter the size : ");
             n = int.Parse(Console.ReadLine());
@@ -40,11 +41,14 @@ namespace Assignment_2
                 
             }
 
-            Console.WriteLine("Max element in an array : {0}", max);
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            Console.WriteLine("\nMax element in an array : {0}", max);
             Console.WriteLine("Min element in an array : {0}", min);
 
             choices:
             char ch;
+
+            Console.ForegroundColor = ConsoleColor.White;
             Console.Write("\nDo you want to rety (y / n) : ");
             ch = char.Parse(Console.ReadLine());
 

@@ -10,6 +10,7 @@ namespace Assignment_2
         {
             Sort:
             int n;
+            Console.ForegroundColor = ConsoleColor.White;
             Console.WriteLine("\nQ30. Write a program in C# to sort the given array in descending order.");
             Console.Write("\nEnter the size of an array : ");
             n = int.Parse(Console.ReadLine());
@@ -36,7 +37,8 @@ namespace Assignment_2
                 }
             }
 
-            Console.Write("Sorting in decending order : ");
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            Console.Write("\nSorting in decending order : ");
             for(int i = 0; i < n; i++)
             {
                 Console.Write("{0}  ", arr[i]);
@@ -44,6 +46,7 @@ namespace Assignment_2
 
         choices:
             char ch;
+            Console.ForegroundColor = ConsoleColor.White;
             Console.Write("\nDo you want to rety (y / n) : ");
             ch = char.Parse(Console.ReadLine());
 

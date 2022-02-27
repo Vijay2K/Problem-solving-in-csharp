@@ -70,20 +70,24 @@ namespace Assignment_2
                     Choices();
                     break;
                 case 1:
-                    Console.WriteLine("Entering inputs");
+                    Console.Clear();
+                    Q21_NumberToWords.NumberToWords();
                     break;
                 case 2:
                     Console.Clear();
                     Q22_GreaterNumberTernary.GreaterNumber();
                     break;
                 case 3:
-                    Console.WriteLine("Entering inputs");
+                    Console.Clear();
+                    Q23_DecimalToBinary.DecimalToBinary();
                     break;
                 case 4:
-                    Console.WriteLine("Entering inputs");
+                    Console.Clear();
+                    Q24_PerfectNumber.PerfectNumbers();
                     break;
                 case 5:
-                    Console.WriteLine("Entering inputs");
+                    Console.Clear();
+                    Q25_PerfectNumbersInRange.PerfectNumberInRange();
                     break;
                 case 6:
                     Console.Clear();

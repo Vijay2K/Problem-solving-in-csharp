@@ -14,6 +14,7 @@ namespace Assignment_2
         {
             Reverse:
             int n;
+            Console.ForegroundColor = ConsoleColor.White;
             Console.WriteLine("\nQ27. Write a program in C# to read n number of values in an array and display it in reverse order.");
             Console.Write("\nEnter the size : ");
             n = int.Parse(Console.ReadLine());
@@ -29,7 +30,8 @@ namespace Assignment_2
             }
 
             Console.Write("Array in reverse : ");
-            for(int i = 0; i < n; i++)
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            for (int i = 0; i < n; i++)
             {
                 int val = st.Pop();
                 Console.Write("{0}  ", val);
@@ -37,6 +39,7 @@ namespace Assignment_2
 
             choices:
             char ch;
+            Console.ForegroundColor = ConsoleColor.White;
             Console.Write("\nDo you want to rety (y / n) : ");
             ch = char.Parse(Console.ReadLine());
             

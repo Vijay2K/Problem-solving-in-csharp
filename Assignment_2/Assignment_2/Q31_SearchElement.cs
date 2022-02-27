@@ -11,6 +11,7 @@ namespace Assignment_2
             Search:
             int n, searchElement;
             bool hasFound = false;
+            Console.ForegroundColor = ConsoleColor.White;
             Console.WriteLine("\nQ31. Write a program in C# to search given element in array.");
             Console.Write("\nEnter the size of an array : ");
             n = int.Parse(Console.ReadLine());
@@ -37,7 +38,8 @@ namespace Assignment_2
                 }
             }
 
-            if(hasFound)
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            if (hasFound)
             {
                 Console.WriteLine("\n'{0}' element found at {1} index and {2} position", searchElement, elementIndex, elementIndex + 1);
             } else
@@ -47,6 +49,7 @@ namespace Assignment_2
 
         choices:
             char ch;
+            Console.ForegroundColor = ConsoleColor.White;
             Console.Write("\nDo you want to rety (y / n) : ");
             ch = char.Parse(Console.ReadLine());
 

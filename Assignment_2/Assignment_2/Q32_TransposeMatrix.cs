@@ -10,6 +10,7 @@ namespace Assignment_2
         {
             Matrix:
             int rows, cols;
+            Console.ForegroundColor = ConsoleColor.White;
             Console.WriteLine("Q32. Input one matrix and print its transpose.");
             Console.Write("Enter the rows : ");
             rows = int.Parse(Console.ReadLine());
@@ -34,6 +35,7 @@ namespace Assignment_2
             {
                 for(int j = 0; j < cols; j++)
                 {
+                    Console.ForegroundColor = ConsoleColor.Yellow;
                     Console.Write("{0}  ", matrix[i, j]);
                 }
                 Console.Write("\n");
@@ -48,11 +50,13 @@ namespace Assignment_2
                 Console.Write("\n");
             }
 
+            Console.ForegroundColor = ConsoleColor.White;
             Console.WriteLine("Transpose matrix");
             for (int i = 0; i < cols; i++)
             {
                 for (int j = 0; j < rows; j++)
                 {
+                    Console.ForegroundColor = ConsoleColor.Yellow;
                     Console.Write("{0}  ", transpose[i, j]);
                 }
                 Console.Write("\n");
@@ -60,6 +64,7 @@ namespace Assignment_2
 
         choices:
             char ch;
+            Console.ForegroundColor = ConsoleColor.White;
             Console.Write("\nDo you want to rety (y / n) : ");
             ch = char.Parse(Console.ReadLine());
 

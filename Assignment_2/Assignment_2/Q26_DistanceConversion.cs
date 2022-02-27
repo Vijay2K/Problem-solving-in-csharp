@@ -9,6 +9,7 @@ namespace Assignment_2
         public static void DistanceConversion()
         {
             distance:
+            Console.ForegroundColor = ConsoleColor.White;
             Console.WriteLine("\nQ26. Write down a menu driven program using switch to convert various distance from one unit to other.");
             char c;
             Console.WriteLine("\n1. Converting millimeter(mm) to centimeter(cm).");
@@ -42,6 +43,7 @@ namespace Assignment_2
 
             choices:
             char ch;
+            Console.ForegroundColor = ConsoleColor.White;
             Console.Write("\nDo you want to rety (y / n) : ");
             ch = char.Parse(Console.ReadLine());
 
@@ -70,6 +72,7 @@ namespace Assignment_2
             value = float.Parse(Console.ReadLine());
             result = value / 10;
             Console.WriteLine("\nMillimeter to centimeter");
+            Console.ForegroundColor = ConsoleColor.Yellow;
             Console.WriteLine("{0} mm = {1} cm", value, result);
         }
 
@@ -83,6 +86,7 @@ namespace Assignment_2
             result = value / 100;
 
             Console.WriteLine("\nCentimeter to Meter");
+            Console.ForegroundColor = ConsoleColor.Yellow;
             Console.WriteLine("{0} cm = {1} m", value, result);
         }
 
@@ -96,6 +100,7 @@ namespace Assignment_2
             result = value / 1000;
 
             Console.WriteLine("\nMeter to Kilometer");
+            Console.ForegroundColor = ConsoleColor.Yellow;
             Console.WriteLine("{0} m = {1} km", value, result);
         }
 
@@ -109,6 +114,7 @@ namespace Assignment_2
             result = value / 2.54f;
 
             Console.WriteLine("\nCentimeter to Inches");
+            Console.ForegroundColor = ConsoleColor.Yellow;
             Console.WriteLine("{0} cm = {1} in", value, result);
         }
     }

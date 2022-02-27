@@ -11,6 +11,7 @@ namespace Assignment_2
         Matrix:
             int rows, cols;
             int sum = 0;
+            Console.ForegroundColor = ConsoleColor.White;
             Console.WriteLine("\nQ33. Input a square matrix and find the sum of diagonal elements.");
             Console.Write("\nEnter the rows : ");
             rows = int.Parse(Console.ReadLine());
@@ -36,11 +37,13 @@ namespace Assignment_2
                 {
                     for (int j = 0; j < cols; j++)
                     {
+                        Console.ForegroundColor = ConsoleColor.Yellow;
                         Console.Write("{0}  ", sqrMatrix[i, j]);
                     }
                     Console.Write("\n");
                 }
 
+                Console.ForegroundColor = ConsoleColor.White;
                 Console.Write("\nDiagonal matrix elements : ");
                 for (int i = 0; i < rows; i++)
                 {
@@ -48,6 +51,7 @@ namespace Assignment_2
                     {
                         if(i == j)
                         {
+                            Console.ForegroundColor = ConsoleColor.Yellow;
                             Console.Write("{0}  ", sqrMatrix[i, j]);
                             sum += sqrMatrix[i, j];
                         }
@@ -57,6 +61,7 @@ namespace Assignment_2
                 Console.WriteLine("\nSum of the diagonal matrix : {0}", sum);                
             } else
             {
+                Console.ForegroundColor = ConsoleColor.White;
                 Console.WriteLine("\nEnter the square matrix");
                 Console.WriteLine("\nPress any key...");
                 Console.ReadLine();
@@ -66,6 +71,7 @@ namespace Assignment_2
 
         choices:
             char ch;
+            Console.ForegroundColor = ConsoleColor.White;
             Console.Write("\nDo you want to rety (y / n) : ");
             ch = char.Parse(Console.ReadLine());
 

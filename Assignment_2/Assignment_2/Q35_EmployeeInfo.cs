@@ -41,6 +41,7 @@ namespace Assignment_2
         public static void EmployeeInfo()
         {
             details:
+            Console.ForegroundColor = ConsoleColor.White;
             Console.WriteLine("\nQ35. Write a C# program to store the information of 5 employees using structure and array.");
             int n;
             Console.Write("\nEnter the no. of employees : ");
@@ -56,13 +57,16 @@ namespace Assignment_2
             Console.WriteLine("\nEmployee details");
             for(int i = 0; i < n; i++)
             {
+                Console.ForegroundColor = ConsoleColor.White;
                 Console.WriteLine("\nEmployee {0} details\n", i + 1);
+                Console.ForegroundColor = ConsoleColor.Yellow;
                 emp[i].DisplayData();
                 Console.Write("\n");
             }
 
             choices:
             char ch;
+            Console.ForegroundColor = ConsoleColor.White;
             Console.Write("\nDo you want to rety (y / n) : ");
             ch = char.Parse(Console.ReadLine());
 

@@ -29,6 +29,7 @@ namespace Assignment_2
             string name, dob;
             byte age, rollNo;
 
+            Console.ForegroundColor = ConsoleColor.White;
             Console.WriteLine("Q34. Write a C# program to store the information of one student using structure.");
             Console.WriteLine("\nEnter the student details");
             Console.Write("\nEnter the student name : ");
@@ -43,6 +44,8 @@ namespace Assignment_2
             Student st = new Student(name, age, rollNo, dob);
 
             Console.WriteLine("\nStudent Details");
+
+            Console.ForegroundColor = ConsoleColor.Yellow;
             Console.WriteLine("Name : " + st.Name);
             Console.WriteLine("Roll No : " + st.RollNo);
             Console.WriteLine("Age : " + st.Age);
@@ -50,6 +53,7 @@ namespace Assignment_2
 
         choices:
             char ch;
+            Console.ForegroundColor = ConsoleColor.White;
             Console.Write("\nDo you want to rety (y / n) : ");
             ch = char.Parse(Console.ReadLine());
 

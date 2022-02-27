@@ -28,12 +28,12 @@
 ___________________________________________________________________________________________________________
 							Assignment - 2
 							
-21.	Write a c# program to convert given number in word form. (147 : one hundred forty seven)
+21.	Write a c# program to convert given number in word form. (147 : one hundred forty seven) ✔️
 22.	Find the greater between given 3 numbers using ternary operator.✔️
-23.	Write a C# program to convert decimal number to binary.
-24.	Write a C# program to check whether given number is perfect or not.(6, 28, 496, 8128 )
-25.	Write a C# program to print all perfect numbers within given range. 
-26.	Write down a menu driven program using switch to convert various distance from one unit to other.
+23.	Write a C# program to convert decimal number to binary.✔️
+24.	Write a C# program to check whether given number is perfect or not.(6, 28, 496, 8128 ) ✔️
+25.	Write a C# program to print all perfect numbers within given range. ✔️
+26.	Write down a menu driven program using switch to convert various distance from one unit to other.✔️
 27.	Write a program in C# to read n number of values in an array and display it in reverse order.✔️
 28.	Write a program in C# to find the sum and average of all elements of the array.✔️
 29.	Write a program in C# to find maximum and minimum element in an array.✔️
