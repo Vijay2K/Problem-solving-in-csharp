@@ -18,7 +18,7 @@ namespace Assignment_2
                 Console.WriteLine("\nEnter the Car Details (static constructor)");
             }
 
-            public static void GetData()
+            public void GetData()
             {
                 Console.Write("\nEnter the car name : ");
                 name = Console.ReadLine();
@@ -37,7 +37,8 @@ namespace Assignment_2
             Console.ForegroundColor = ConsoleColor.White;
             Console.WriteLine("\nQ43. Write a program which will demonstrate the use of static keyword with variables, methods, and constructor.");
 
-            Car.GetData();
+            Car car = new Car();
+            car.GetData();
             Console.WriteLine("\nCar details");
             Console.ForegroundColor = ConsoleColor.Yellow;
             Console.WriteLine("Name : {0}", Car.name);

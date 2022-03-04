@@ -257,11 +257,11 @@ namespace Assignment_2
                     break;
                 case 6:
                     Console.Clear();
-                    Q36_AccessSpecifiers.AccessSpecifiers();
+                    Q46_SingleIheritance.SingleInheritance();
                     break;
                 case 7:
                     Console.Clear();
-                    Q37_GreaterNumberUsingCL.CL_GreaterNumber(strs);
+                    Q47_MultilevelInheritance.MultilevelInheritance();
                     break;
                 case 8:
                     Console.Clear();

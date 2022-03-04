@@ -57,9 +57,9 @@ ________________________________________________________________________________
 44.	Write a program to demonstrate static constructor with proper example.✔️
 45.	Write the program which will implement the concept of properties in c#.✔️
 46.	Write a C# program which will demonstrate the single inheritance. Take base class as Bird and child class as parrot. 
-	Write and inherit the appropriate methods.
+	Write and inherit the appropriate methods. ✔️
 47.	Write a C# program to demonstrate multilevel inheritance. Base class – bird, middle class – flying birds, child class – any bird. 
-	Use appropriate methods in related class.
+	Use appropriate methods in related class. ✔️
 48.	Take Account as abstract class. Make saving a/c and current a/c as its child. Make hierarchical inheritance between them. 
 49.	Demonstrate multiple inheritance with the use of interface with suitable example.
 50.	Declare a class name ‘A’ with some methods and one parameterised constructor. Derive another class ‘B’ from ‘class A’. 

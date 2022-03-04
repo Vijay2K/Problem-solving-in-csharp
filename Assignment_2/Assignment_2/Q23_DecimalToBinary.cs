@@ -15,7 +15,7 @@ namespace Assignment_2
             Console.Write("\nEnter the value : ");
             n = int.Parse(Console.ReadLine());
 
-            string binary = Convert.ToString(n, 2);
+            string binary = Convert.ToString(n, 8);
             Console.Write("\nBinary of value {0} : ", n);
             Console.ForegroundColor = ConsoleColor.Yellow;
             Console.Write(binary);
