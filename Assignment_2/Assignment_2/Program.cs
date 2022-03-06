@@ -269,7 +269,7 @@ namespace Assignment_2
                     break;
                 case 9:
                     Console.Clear();
-                    Q39_PalindromeUsingCL.PalindromeUsingCL(strs);
+                    Q49_MultipleInheritance.MultipleInheritance();
                     break;
                 case 10:
                     Console.Clear();
