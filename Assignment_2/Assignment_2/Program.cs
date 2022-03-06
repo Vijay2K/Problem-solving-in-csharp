@@ -265,7 +265,7 @@ namespace Assignment_2
                     break;
                 case 8:
                     Console.Clear();
-                    Q38_StudentGradeUsingCL.StudentGradeCL(strs);
+                    Q48_AccountInheritance.AccountInheritance();
                     break;
                 case 9:
                     Console.Clear();
