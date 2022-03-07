@@ -273,7 +273,7 @@ namespace Assignment_2
                     break;
                 case 10:
                     Console.Clear();
-                    Q40_ArmstrongUsingCL.ArmstrongNumberCL(strs);
+                    Q50_parameterisedconstructor.ParametrisedConstructor();
                     break;
                 default:
                     Console.WriteLine("Invalid Input...");
