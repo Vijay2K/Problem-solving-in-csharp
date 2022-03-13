@@ -27,6 +27,8 @@ namespace Assignment_2
             Console.WriteLine("  2. Question from 31 to 40");
             Console.WriteLine("\n\tAssignment - 3\n");
             Console.WriteLine("  3. Question from 41 to 50");
+            Console.WriteLine("\n\tAssignment - 4\n");
+            Console.WriteLine("  4. Question from 51 to 57");
             Console.WriteLine("\n  Press 0 to exit\n");
 
             Console.Write("  Enter the Choice : ");
@@ -48,6 +50,10 @@ namespace Assignment_2
                 case 3:
                     Console.Clear();
                     QuestionPartThree();
+                    break;
+                case 4:
+                    Console.Clear();
+                    QuestionPartFour();
                     break;
                 default:
                     Console.WriteLine("Invalid Choice...");
@@ -282,5 +288,65 @@ namespace Assignment_2
                     goto Questions;
             }
         }
-    }
+
+        public static void QuestionPartFour()
+        {
+            byte choice;
+
+        Questions:
+            Console.WriteLine("1. Demonstrate the difference between abstract class and interface.");
+            Console.WriteLine("2. Write a program which will demonstrate the function overriding.");
+            Console.WriteLine("3. Demonstrate the use of sealed keyword.(with class and methods)");
+            Console.WriteLine("4. Demonstrate the difference between var, object and dynamic data types with suitable example.");
+            Console.WriteLine("5. Write a program which will implement the partial class concept.");
+            Console.WriteLine("6. Create a file which includes only data members, another file which contains all constructors of the class\n" +
+                                "  another file which will include all functions related. Use the concept of partial class.");
+            Console.WriteLine("7. Write a program to implement the concept of extended method.");
+            Console.WriteLine("\nPress 0 to Go Back");
+
+            Console.Write("\nEnter your choice : ");
+            choice = byte.Parse(Console.ReadLine());
+
+            switch (choice)
+            {
+                case 0:
+                    Console.Clear();
+                    Choices();
+                    break;
+                case 1:
+                    Console.Clear();
+                    Q51_AbstractClassAndInterface.AbstractClassAndInterface();
+                    break;
+                case 2:
+                    Console.Clear();
+                    Q52_ImplementFunctionOverriding.InplementFunctionOverloading();
+                    break;
+                case 3:
+                    Console.Clear();
+                    Q53_SealedKeyword.SealedKeyword();
+                    break;
+                case 4:
+                    Console.Clear();
+                    Q44_StaticConstructor.StaticConstructor();
+                    break;
+                case 5:
+                    Console.Clear();
+                    Q45_ImplementProperties.ImplementProperties();
+                    break;
+                case 6:
+                    Console.Clear();
+                    Q46_SingleIheritance.SingleInheritance();
+                    break;
+                case 7:
+                    Console.Clear();
+                    Q47_MultilevelInheritance.MultilevelInheritance();
+                    break;
+                default:
+                    Console.WriteLine("Invalid Input...");
+                    Thread.Sleep(500);
+                    Console.Clear();
+                    goto Questions;
+            }
+        }
+    }    
 }
