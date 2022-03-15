@@ -327,15 +327,15 @@ namespace Assignment_2
                     break;
                 case 4:
                     Console.Clear();
-                    Q44_StaticConstructor.StaticConstructor();
+                    Q54_VarDynamicKeyword.VarDynamicKeyword();
                     break;
                 case 5:
                     Console.Clear();
-                    Q45_ImplementProperties.ImplementProperties();
+                    Q55_ImplementPartialClass.ImplementPartialClass();
                     break;
                 case 6:
                     Console.Clear();
-                    Q46_SingleIheritance.SingleInheritance();
+                    Q56_PartialClass.PartialClass();
                     break;
                 case 7:
                     Console.Clear();
