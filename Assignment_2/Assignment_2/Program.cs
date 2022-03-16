@@ -339,7 +339,7 @@ namespace Assignment_2
                     break;
                 case 7:
                     Console.Clear();
-                    Q47_MultilevelInheritance.MultilevelInheritance();
+                    Q57_ExtensionMethod.ImplementExtensionMethod();
                     break;
                 default:
                     Console.WriteLine("Invalid Input...");
