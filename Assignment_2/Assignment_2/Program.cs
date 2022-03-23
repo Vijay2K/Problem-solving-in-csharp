@@ -443,6 +443,7 @@ namespace Assignment_2
                     break;
                 case 14:
                     Console.Clear();
+                    Q71_ReadData.ReadData();
                     break;
                 case 15:
                     Console.Clear();

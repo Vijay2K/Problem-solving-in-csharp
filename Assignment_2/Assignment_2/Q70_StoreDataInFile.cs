@@ -9,6 +9,7 @@ namespace Assignment_2
     {
         public static void StoreDataInFile()
         {
+            ans:
             Console.ForegroundColor = ConsoleColor.White;
             Console.WriteLine("\nQ70. Write a program to store some text into a file, using file handling.");
             string fileName;
@@ -40,6 +41,28 @@ namespace Assignment_2
             s_write.Close();
             Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine($"Stored all the data in the file {fileName}.txt");
+
+            choices:
+            char ch;
+            Console.ForegroundColor = ConsoleColor.White;
+            Console.Write("\nDo you want to rety (y / n) : ");
+            ch = char.Parse(Console.ReadLine());
+
+            switch (ch)
+            {
+                case 'y':
+                case 'Y':
+                    Console.Clear();
+                    goto ans;
+                case 'n':
+                case 'N':
+                    Console.Clear();
+                    Program.QuestionPartFive();
+                    break;
+                default:
+                    Console.Write("Invalid Input...");
+                    goto choices;
+            }
         }
     }
 }
