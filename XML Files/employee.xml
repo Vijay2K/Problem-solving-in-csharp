@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Employees>
+  <Management>
+    <Employee_1>
+      <name>JK</name>
+      <Id>4589</Id>
+      <Salary>50000</Salary>
+    </Employee_1>
+    <Employee_2>
+      <name>Vas</name>
+      <Id>7777</Id>
+      <Salary>65000</Salary>
+    </Employee_2>
+  </Management>
+  <Developer>
+    <Employee_1>
+      <name>vijay</name>
+      <Id>9586</Id>
+      <Salary>80000</Salary>
+    </Employee_1>
+    <Employee_2>
+      <name>elliot</name>
+      <Id>1236</Id>
+      <Salary>75000</Salary>
+    </Employee_2>
+    <Employee_3>
+      <name>Jhon</name>
+      <Id>1166</Id>
+      <Salary>75000</Salary>
+    </Employee_3>
+  </Developer>
+</Employees>

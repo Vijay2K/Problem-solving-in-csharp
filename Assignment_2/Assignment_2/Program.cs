@@ -431,12 +431,15 @@ namespace Assignment_2
                     break;
                 case 11:
                     Console.Clear();
+                    Q68_EmployeeData.EmployeeData();
                     break;
                 case 12:
                     Console.Clear();
+                    Q69_ReadXML.ReadXML();
                     break;
                 case 13:
                     Console.Clear();
+                    Q70_StoreDataInFile.StoreDataInFile();
                     break;
                 case 14:
                     Console.Clear();
