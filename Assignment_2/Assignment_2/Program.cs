@@ -30,6 +30,9 @@ namespace Assignment_2
             Console.WriteLine("\n\tAssignment - 4\n");
             Console.WriteLine("  4. Question from 51 to 57");
             Console.WriteLine("\n  Press 0 to exit\n");
+            Console.WriteLine("\n\tAssignment - 5\n");
+            Console.WriteLine("  5. Question from 58 to 75");
+            Console.WriteLine("\n  Press 0 to exit\n");
 
             Console.Write("  Enter the Choice : ");
             choice = byte.Parse(Console.ReadLine());
@@ -54,6 +57,10 @@ namespace Assignment_2
                 case 4:
                     Console.Clear();
                     QuestionPartFour();
+                    break;
+                case 5:
+                    Console.Clear();
+                    QuestionPartFive();
                     break;
                 default:
                     Console.WriteLine("Invalid Choice...");
@@ -340,6 +347,111 @@ namespace Assignment_2
                 case 7:
                     Console.Clear();
                     Q57_ExtensionMethod.ImplementExtensionMethod();
+                    break;
+                default:
+                    Console.WriteLine("Invalid Input...");
+                    Thread.Sleep(500);
+                    Console.Clear();
+                    goto Questions;
+            }
+        }
+
+        public static void QuestionPartFive()
+        {
+            byte choice;
+
+        Questions:
+            Console.WriteLine("1. Write a program to add Max_num() to Int32 existing structure through extension method.");
+            Console.WriteLine("2. Write a program to add one extended method to ArrayList class.");
+            Console.WriteLine("3. Write a program for ArrayList collection and demonstrate all the methods of ArrayList Class.");
+            Console.WriteLine("4. Write a program to implement all non-generic collections.(stack,queue,arraylist,hash_table)");
+            Console.WriteLine("5. Write a program to implement all generic collections.(stack,queue,list,dictionary,sorted_list)");
+            Console.WriteLine("6. Write a program to implement the concept of multithreading.");
+            Console.WriteLine("7. Write three functions, each function will print some text in specific colour. " +
+                "Create three different threads and run all functions simultaneously.");
+            Console.WriteLine("8. Write a program to implement the concept of delegates.");
+            Console.WriteLine("9. Write a delegate which will take one integer argument. And write functions for factorial, Fibonacci, " +
+                "Factors of number, Table of Number and call the functions through delegate.");
+            Console.WriteLine("10. Write a program which will have both single cast and multicast delegates.");
+            Console.WriteLine("11. Write a program through which you will create a XML file to store Employee Data.");
+            Console.WriteLine("12. Write a program to read XML file which is already created.");
+            Console.WriteLine("13. Write a program to store some text into a file, using file handling.");
+            Console.WriteLine("14. Write a program to read the text from .txt file, using file handling.");
+            Console.WriteLine("15. Write a program to copy one file to another.");
+            Console.WriteLine("16. Write some text to the file in append mode and read the data from the same file.");
+            Console.WriteLine("17. Write a program to input file name from command line, create .txt file with the same name and store some data into it.");
+            Console.WriteLine("18. Write a program to delete the file.");
+            Console.WriteLine("\nPress 0 to Go Back");
+
+            Console.Write("\nEnter your choice : ");
+            choice = byte.Parse(Console.ReadLine());
+
+            switch (choice)
+            {
+                case 0:
+                    Console.Clear();
+                    Choices();
+                    break;
+                case 1:
+                    Console.Clear();
+                    Q58_ExtendInt32.ExtendInt32();
+                    break;
+                case 2:
+                    Console.Clear();
+                    Q59_ExtendArrayList.ExtendArrayList();
+                    break;
+                case 3:
+                    Console.Clear();
+                    Q53_SealedKeyword.SealedKeyword();
+                    break;
+                case 4:
+                    Console.Clear();
+                    Q54_VarDynamicKeyword.VarDynamicKeyword();
+                    break;
+                case 5:
+                    Console.Clear();
+                    Q55_ImplementPartialClass.ImplementPartialClass();
+                    break;
+                case 6:
+                    Console.Clear();
+                    Q56_PartialClass.PartialClass();
+                    break;
+                case 7:
+                    Console.Clear();
+                    Q57_ExtensionMethod.ImplementExtensionMethod();
+                    break;
+                case 8:
+                    Console.Clear();
+                    break;
+                case 9:
+                    Console.Clear();
+                    break;
+                case 10:
+                    Console.Clear();
+                    break;
+                case 11:
+                    Console.Clear();
+                    break;
+                case 12:
+                    Console.Clear();
+                    break;
+                case 13:
+                    Console.Clear();
+                    break;
+                case 14:
+                    Console.Clear();
+                    break;
+                case 15:
+                    Console.Clear();
+                    break;
+                case 16:
+                    Console.Clear();
+                    break;
+                case 17:
+                    Console.Clear();
+                    break;
+                case 18:
+                    Console.Clear();
                     break;
                 default:
                     Console.WriteLine("Invalid Input...");
