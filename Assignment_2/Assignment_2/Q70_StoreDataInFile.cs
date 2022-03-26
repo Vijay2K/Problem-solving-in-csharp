@@ -1,6 +1,7 @@
 ﻿//Q70. Write a program to store some text into a file, using file handling.
 
 using System;
+using System.Collections.Generic;
 using System.IO;
 
 namespace Assignment_2
@@ -12,35 +13,35 @@ namespace Assignment_2
             ans:
             Console.ForegroundColor = ConsoleColor.White;
             Console.WriteLine("\nQ70. Write a program to store some text into a file, using file handling.");
-            string fileName;
-            Console.Write("\nEnter the file Name : ");
-            fileName = Console.ReadLine();
-
-            string path = $"D:\\Personal Projects\\CSharp Projects\\Assignments\\Text Files\\{fileName}.txt";
-            StreamWriter s_write = new StreamWriter(path);
+            
+            string path = $"D:\\Personal Projects\\CSharp Projects\\Assignments\\Text Files\\person_details.txt";
 
             string name;
             int age;
             string email;
+            string profession;
 
-            Console.WriteLine("Enter the person's details");
-            Console.ForegroundColor = ConsoleColor.Yellow;
-            Console.Write("\nEnter the Name : ");
+            Console.WriteLine("\nEnter the Person's details");
+            Console.Write("Enter the name : ");
             name = Console.ReadLine();
-            s_write.WriteLine("Name : " + name);
-
-            Console.Write("Enter the Age : ");
+            Console.Write("Enter the age : ");
             age = int.Parse(Console.ReadLine());
-            s_write.WriteLine("Age : " + age);
-
             Console.Write("Enter the email : ");
             email = Console.ReadLine();
-            s_write.WriteLine("Email : " + email);
+            Console.Write("Enter the profession : ");
+            profession = Console.ReadLine();
 
-            s_write.Flush();
-            s_write.Close();
-            Console.ForegroundColor = ConsoleColor.Green;
-            Console.WriteLine($"Stored all the data in the file {fileName}.txt");
+            if(File.Exists(path))
+            {
+                File.WriteAllText(path, $"Person's details\n\nName : {name}\nAge : {age}\nEmail : {email}\nProfession : {profession}");
+                Console.ForegroundColor = ConsoleColor.Green;
+                Console.WriteLine($"Stored all the data in the file person_details.txt");
+            } 
+            else
+            {
+                Console.ForegroundColor = ConsoleColor.Red;
+                Console.WriteLine("File haven't found....");
+            }
 
             choices:
             char ch;

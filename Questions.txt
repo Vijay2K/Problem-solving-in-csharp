@@ -93,7 +93,7 @@ ________________________________________________________________________________
 69.	Write a program to read XML file which is already created.✔️
 70.	Write a program to store some text into a file, using file handling. ✔️
 71.	Write a program to read the text from .txt file, using file handling.✔️
-72.	Write a program to copy one file to another.
-73.	Write some text to the file in append mode and read the data from the same file.
+72.	Write a program to copy one file to another.✔️
+73.	Write some text to the file in append mode and read the data from the same file. ✔️
 74.	Write a program to input file name from command line, create .txt file with the same name and store some data into it.
 75.	Write a program to delete the file.

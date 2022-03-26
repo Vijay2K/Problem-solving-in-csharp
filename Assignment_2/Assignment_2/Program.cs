@@ -447,9 +447,11 @@ namespace Assignment_2
                     break;
                 case 15:
                     Console.Clear();
+                    Q72_CopyFile.CopyFile();
                     break;
                 case 16:
                     Console.Clear();
+                    Q73_AppendAndReadFile.AppendAndReadFile();
                     break;
                 case 17:
                     Console.Clear();

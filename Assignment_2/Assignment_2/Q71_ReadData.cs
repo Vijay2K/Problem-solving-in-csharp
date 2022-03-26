@@ -9,20 +9,51 @@ namespace Assignment_2
     {
         public static void ReadData()
         {
+            Console.ForegroundColor = ConsoleColor.White;
             Console.WriteLine("\nQ71. Write a program to read the text from .txt file, using file handling.");
-            string path = "D:\\Personal Projects\\CSharp Projects\\Assignments\\Text Files\\person.txt";
-            StreamReader s_reader = new StreamReader(path);
 
-            s_reader.BaseStream.Seek(0, SeekOrigin.Begin);
-            string str = s_reader.ReadLine();
+            ans:
+            string file;
+            Console.Write("\nEnter the file name : ");
+            file = Console.ReadLine();
 
-            while(str != null)
+            string path = $"D:\\Personal Projects\\CSharp Projects\\Assignments\\Text Files\\{file}.txt";
+            string data;
+
+            if(File.Exists(path))
             {
-                Console.WriteLine(str);
-                str = s_reader.ReadLine();
+                data = File.ReadAllText(path);
+                Console.WriteLine("\nData inside the text file...");
+                Console.WriteLine(data);
+            }
+            else
+            {
+                Console.WriteLine($"File {file} doesn't exists");
+                Console.WriteLine("Pls try again....");
+                goto ans;
             }
 
-            s_reader.Close();
+            choices:
+            char ch;
+            Console.ForegroundColor = ConsoleColor.White;
+            Console.Write("\nDo you want to rety (y / n) : ");
+            ch = char.Parse(Console.ReadLine());
+
+            switch (ch)
+            {
+                case 'y':
+                case 'Y':
+                    Console.Clear();
+                    goto ans;
+                case 'n':
+                case 'N':
+                    Console.Clear();
+                    Program.QuestionPartFive();
+                    break;
+                default:
+                    Console.Write("Invalid Input...");
+                    goto choices;
+            }
         }
     }
 }
