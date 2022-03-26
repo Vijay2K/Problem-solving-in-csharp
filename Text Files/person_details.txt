@@ -5,5 +5,3 @@ Name : elliot
 Age : 25
 Email : elliot@gmail.com
 Profession : cyber security engineer
-hello friend, I am lame
-I am

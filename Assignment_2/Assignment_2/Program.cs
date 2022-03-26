@@ -455,9 +455,11 @@ namespace Assignment_2
                     break;
                 case 17:
                     Console.Clear();
+                    Q74_CreateAndStoreData.CreateAndStore();
                     break;
                 case 18:
                     Console.Clear();
+                    Q75_DeleteFile.DeleteFile();
                     break;
                 default:
                     Console.WriteLine("Invalid Input...");
