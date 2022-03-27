@@ -402,11 +402,11 @@ namespace Assignment_2
                     break;
                 case 3:
                     Console.Clear();
-                    Q53_SealedKeyword.SealedKeyword();
+                    Q60_MethodsOfArrayList.MethodsOfArrayList();
                     break;
                 case 4:
                     Console.Clear();
-                    Q54_VarDynamicKeyword.VarDynamicKeyword();
+                    Q61_NonGenericCollection.NonGenericCollection();
                     break;
                 case 5:
                     Console.Clear();
