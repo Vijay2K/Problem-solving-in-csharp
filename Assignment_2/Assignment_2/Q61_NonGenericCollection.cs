@@ -7,12 +7,12 @@ namespace Assignment_2
 {
     internal class Q61_NonGenericCollection
     {
-        public static void NonGenericCollection()
+        private static void Choices()
         {
             ans:
             Console.ForegroundColor = ConsoleColor.White;
             Console.WriteLine("\nQ61. Write a program to implement all non-generic collections.(stack,queue,arraylist,hash_table)");
-            
+
             char choice;
             Console.WriteLine("1. Stack");
             Console.WriteLine("2. Queue");
@@ -21,7 +21,7 @@ namespace Assignment_2
             Console.Write("\nEnter the choice : ");
 
             choice = char.Parse(Console.ReadLine());
-            switch(choice)
+            switch (choice)
             {
                 case '1':
                     UsingStack();
@@ -42,6 +42,11 @@ namespace Assignment_2
                     Console.Clear();
                     goto ans;
             }
+        }
+
+        public static void NonGenericCollection()
+        {
+            Choices();
         }
 
         private static void UsingStack()
@@ -93,6 +98,8 @@ namespace Assignment_2
                     }
                     goto redo;
                 case '0':
+                    Console.Clear();
+                    Choices();
                     break;
                 default:
                     Console.WriteLine("\nInvalid choice...");

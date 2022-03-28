@@ -422,9 +422,11 @@ namespace Assignment_2
                     break;
                 case 8:
                     Console.Clear();
+                    Q65_ImplementDelegate.ImplementDelegate();
                     break;
                 case 9:
                     Console.Clear();
+                    Q66_DelegateProgram.DelegateProgram();
                     break;
                 case 10:
                     Console.Clear();

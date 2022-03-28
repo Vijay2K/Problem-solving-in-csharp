@@ -88,11 +88,11 @@ ________________________________________________________________________________
 ❌ 63.Write a program to implement the concept of multithreading.
 ❌ 64.	Write three functions, each function will print some text in specific colour. Create three different threads and run all functions simultaneously.  
 
-65.	Write a program to implement the concept of delegates.
+65.	Write a program to implement the concept of delegates✔️
 66.	Write a delegate which will take one integer argument. 
-	And write functions for factorial, Fibonacci, Factors of number, Table of Number and call the functions through delegate.
+	And write functions for factorial, Fibonacci, Factors of number, Table of Number and call the functions through delegate. ✔️
 67.	Write a program which will have both single cast and multicast delegates.
-68.	Write a program through which you will create a XML file to store Employee Data.✔️`
+68.	Write a program through which you will create a XML file to store Employee Data.✔️
 69.	Write a program to read XML file which is already created.✔️
 70.	Write a program to store some text into a file, using file handling. ✔️
 71.	Write a program to read the text from .txt file, using file handling.✔️
