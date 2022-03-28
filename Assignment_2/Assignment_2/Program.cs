@@ -430,6 +430,7 @@ namespace Assignment_2
                     break;
                 case 10:
                     Console.Clear();
+                    Q67_SingleAndMulticastDelegate.SingleAndMulticastDelegate();
                     break;
                 case 11:
                     Console.Clear();
