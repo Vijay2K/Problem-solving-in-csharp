@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AOD.NET_Assignments", "AOD.NET_Assignments\AOD.NET_Assignments.csproj", "{F4602B4D-CD4B-48BC-B80E-D9B9F780E644}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4602B4D-CD4B-48BC-B80E-D9B9F780E644}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4602B4D-CD4B-48BC-B80E-D9B9F780E644}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4602B4D-CD4B-48BC-B80E-D9B9F780E644}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4602B4D-CD4B-48BC-B80E-D9B9F780E644}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D95F4E28-3F47-47D0-BEE3-CD7C306C42DF}
+	EndGlobalSection
+EndGlobal

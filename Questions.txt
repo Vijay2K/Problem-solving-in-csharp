@@ -91,7 +91,7 @@ ________________________________________________________________________________
 65.	Write a program to implement the concept of delegates✔️
 66.	Write a delegate which will take one integer argument. 
 	And write functions for factorial, Fibonacci, Factors of number, Table of Number and call the functions through delegate. ✔️
-67.	Write a program which will have both single cast and multicast delegates.
+67.	Write a program which will have both single cast and multicast delegates. ✔️
 68.	Write a program through which you will create a XML file to store Employee Data.✔️
 69.	Write a program to read XML file which is already created.✔️
 70.	Write a program to store some text into a file, using file handling. ✔️
@@ -100,3 +100,13 @@ ________________________________________________________________________________
 73.	Write some text to the file in append mode and read the data from the same file. ✔️
 74.	Write a program to input file name from command line, create .txt file with the same name and store some data into it.✔️
 75.	Write a program to delete the file.✔️
+_______________________________________________________________________________________________________________________________
+							Assignment - 6
+
+76.	Write a program using ADO.NET to insert the student data into the table.
+77.	Write a program using ADO.NET to update the student’s age data into the table.
+78.	Write a program using ADO.NET to show the students whose age is below 30.
+79.	Write a program using ADO.NET to create the employee table with some fields.
+80.	Write a Menu driven program for  insert, update, delete ,and show the information from table using ADO.NET
+81.	Write a program using ADO.NET to delete the employee table.
+82.	Write a program to read data from XML file and store it into the table.
