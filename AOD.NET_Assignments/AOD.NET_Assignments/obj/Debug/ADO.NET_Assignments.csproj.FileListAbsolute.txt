@@ -1,0 +1,7 @@
+D:\Personal Projects\CSharp Projects\Assignments\AOD.NET_Assignments\AOD.NET_Assignments\bin\Debug\AOD.NET_Assignments.exe.config
+D:\Personal Projects\CSharp Projects\Assignments\AOD.NET_Assignments\AOD.NET_Assignments\bin\Debug\AOD.NET_Assignments.exe
+D:\Personal Projects\CSharp Projects\Assignments\AOD.NET_Assignments\AOD.NET_Assignments\bin\Debug\AOD.NET_Assignments.pdb
+D:\Personal Projects\CSharp Projects\Assignments\AOD.NET_Assignments\AOD.NET_Assignments\obj\Debug\ADO.NET_Assignments.csproj.SuggestedBindingRedirects.cache
+D:\Personal Projects\CSharp Projects\Assignments\AOD.NET_Assignments\AOD.NET_Assignments\obj\Debug\ADO.NET_Assignments.csproj.CoreCompileInputs.cache
+D:\Personal Projects\CSharp Projects\Assignments\AOD.NET_Assignments\AOD.NET_Assignments\obj\Debug\AOD.NET_Assignments.exe
+D:\Personal Projects\CSharp Projects\Assignments\AOD.NET_Assignments\AOD.NET_Assignments\obj\Debug\AOD.NET_Assignments.pdb

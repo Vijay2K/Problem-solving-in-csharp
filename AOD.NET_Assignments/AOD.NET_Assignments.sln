@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31919.166
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AOD.NET_Assignments", "AOD.NET_Assignments\AOD.NET_Assignments.csproj", "{F4602B4D-CD4B-48BC-B80E-D9B9F780E644}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADO.NET_Assignments", "AOD.NET_Assignments\ADO.NET_Assignments.csproj", "{F4602B4D-CD4B-48BC-B80E-D9B9F780E644}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
