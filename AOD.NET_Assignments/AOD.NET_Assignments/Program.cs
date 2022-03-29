@@ -19,6 +19,8 @@ namespace ADO.NET_Assignments
                     Q76_InsertStudentData.InsertStudentData();
                     break;
                 case '2':
+                    Console.Clear();
+                    Q77_UpdateStudentData.UpdateStudentData();
                     break;
                 case '3':
                     break;
