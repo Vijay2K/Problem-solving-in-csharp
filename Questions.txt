@@ -105,8 +105,8 @@ ________________________________________________________________________________
 
 76.	Write a program using ADO.NET to insert the student data into the table.✔️
 77.	Write a program using ADO.NET to update the student’s age data into the table.✔️
-78.	Write a program using ADO.NET to show the students whose age is below 30.
-79.	Write a program using ADO.NET to create the employee table with some fields.
+78.	Write a program using ADO.NET to show the students whose age is below 30. ✔️
+79.	Write a program using ADO.NET to create the employee table with some fields. ✔️
 80.	Write a Menu driven program for  insert, update, delete ,and show the information from table using ADO.NET
 81.	Write a program using ADO.NET to delete the employee table.
 82.	Write a program to read data from XML file and store it into the table.

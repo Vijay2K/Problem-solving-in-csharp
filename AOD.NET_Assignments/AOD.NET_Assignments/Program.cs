@@ -23,6 +23,16 @@ namespace ADO.NET_Assignments
                     Q77_UpdateStudentData.UpdateStudentData();
                     break;
                 case '3':
+                    Console.Clear();
+                    Q78_ShowSpecificData.ShowSpecificData();
+                    break;
+                case '4':
+                    Console.Clear();
+                    Q79_CreateEmployeeTable.CreateEmployeeTable();
+                    break;
+                case '5':
+                    Console.Clear();
+                    Q82_ReadAndStore.ReadAndStore();
                     break;
                 default:
                     Console.WriteLine("Invalid Input...");
