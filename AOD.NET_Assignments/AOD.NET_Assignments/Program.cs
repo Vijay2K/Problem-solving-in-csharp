@@ -34,6 +34,10 @@ namespace ADO.NET_Assignments
                     Console.Clear();
                     Q82_ReadAndStore.ReadAndStore();
                     break;
+                case '6':
+                    Console.Clear();
+                    Q80_MenuDriven.MenuDriven();
+                    break;
                 default:
                     Console.WriteLine("Invalid Input...");
                     Console.WriteLine("Pls try again...");
